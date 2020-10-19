@@ -1,6 +1,6 @@
 # Hola!
 
-Puedes encontrar las diapositivas [aquí](/docs/slides.html)
+Puedes encontrar las diapositivas [aquí](/slides.html)
 
 <style>
 .resp-container {
