@@ -1,3 +1,5 @@
+[Link to the slides](/docs/slides.html)
+
 <style>
 .resp-container {
     position: relative;
