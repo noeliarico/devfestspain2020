@@ -1,4 +1,6 @@
-[Link to the slides](/docs/slides.html)
+# Hola!
+
+Puedes encontrar las diapositivas [aquí](/docs/slides.html)
 
 <style>
 .resp-container {
